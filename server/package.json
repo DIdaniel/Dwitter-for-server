@@ -1,0 +1,19 @@
+{
+  "name": "Dwitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "danielKIM",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "helmet": "^4.6.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
